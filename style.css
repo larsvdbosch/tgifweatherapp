@@ -1,0 +1,48 @@
+body {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    background-image: url("images/bewolkt.png");
+    color: rgb(68, 0, 255);
+
+}
+
+.city {
+
+    font-size: 2.5em;
+    font-weight: 600;
+    margin: 0;
+    text-align: center;
+}
+
+.temp {
+
+    font-size: 10em;
+    font-weight: 600;
+    text-align: center;
+}
+
+.ondertekst {
+
+    font-weight: 400;
+    font-size: 1em;
+    text-align: center;
+    clear: both;
+}
+
+.weer {
+
+    width: 5em;
+    height: auto;
+}
+
+.icons {
+
+    width: 2em;
+    height: auto;
+    padding: 1em;
+}
+
